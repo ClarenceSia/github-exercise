@@ -1,5 +1,10 @@
-# github-exercise
-
-for educational purposes only
-
-I am Clarence Ian A Sia currently studying as Bachelor of Science in Information Technology, First year college.
+<DOCTYPE html>
+<html>
+<head>
+<title>INDEX</title>
+</head>
+	<body>
+	<h1>Clarence Ian A Sia</h1>
+	<h1> BSIT 1F WEBDEV 25841</h1>
+	</body>
+</html>
