@@ -1,84 +1,21 @@
 body{
-    background: linear-gradient(90deg, #A5A5A5, #000);
-
+    background-color: #dcd3d3;
 }
-
-.container{
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-h1 a{
-    font-family: sans-serif;
+h1{
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    padding: 60px;
     text-align: center;
-    color:#fff;
+    background-image: url('header.png')
 }
-h2 a{
-    font-family: sans-serif;
+h2{
     text-align:center;
-    color:#fff
 }
 
-.text {
-    position:absolute;
-    top:100%;
-    left:50%;
-    transform:translate(-50%,-50%);
-}
-ul{
-    padding:0;
-    margin:0;
-    font-size:20px;
-    font-family:sans-serif;
+.row{
+    margin-left:20%;
+    position: relative;
+
 }
 
-ul li:nth-child(1){
-    color:aqua;
-}
-ul li:nth-child(2){
-    color:aquamarine
-}
-ul li:nth-child(3){
-    color:rgb(163, 144, 247);
-}
-ul li:nth-child(4){
-    color:rgba(77, 185, 131, 0.884);
-}
-ul li:nth-child(5){
-    color:rgb(209, 250, 98);
-}
-ul li:nth-child(6){
-    color:rgb(240, 169, 38);
-}
-ul li:nth-child(7){
-    color:rgb(63, 0, 180);
-}
-ul li:nth-child(8){
-    color:rgb(46, 49, 245);
-}
-ul li:nth-child(9){
-    color:rgb(233, 38, 240);
-}
-ul li:nth-child(10){
-    color:rgb(245, 100, 238);
-}
-ul li:nth-child(11){
-    color:rgb(252, 0, 0);
-}
-ul li:nth-child(12){
-    color:rgb(241, 206, 206);
-}
-ul li:nth-child(13){
-    color:rgb(217, 248, 131);
-}
-ul li:nth-child(14){
-    color:rgb(168, 233, 245);
-}
-ul li:nth-child(15){
-    color:rgb(69, 167, 13);
-}
-ul li:nth-child(16){
-    color:rgb(245, 84, 165);
-}
